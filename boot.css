@@ -1,0 +1,326 @@
+.empty-30 {
+    clear: both;
+    height: 30px;
+}
+.empty-40 {
+    clear: both;
+    height: 40px;
+}
+.empty-60 {
+    clear: both;
+    height: 60px;
+}
+.empty-80 {
+    clear: both;
+    height: 80px;
+}
+
+.nav-link:hover{color: rgb(219, 62, 62);
+    
+
+
+}
+
+
+
+
+
+.foot{
+
+    padding-top: 40px;
+    padding-bottom: 0px;
+    background-image: url("dotted-map.jpg");
+    background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section {
+    position: relative;
+    background: #fff;
+}
+
+section .container {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+section.bg-grey {
+    background-color: #fafafa;
+}
+
+section.bg-dark {
+    background-color: #1f1f1f;
+}
+
+/* Section title */
+
+.section-title h2 {
+    position: relative;
+    clear: both;
+    display: inline-block;
+    margin-bottom: 20px;
+    font-size: 38px;
+    line-height: 38px;
+    font-weight: 700;
+    text-transform: none;
+}
+
+.section-title h2:before {
+    content: attr(data-bigletter);
+    position: absolute;
+    font-size: 2em;
+    opacity: .06;
+    top: -0.17em;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-transform: uppercase;
+}
+
+.section-title h2>strong {
+    font-weight: 700;
+}
+
+.section-title hr {
+    width: 40px;
+    margin: 0 0 20px;
+    border-color: #000;
+   color: #000;
+    transition: all .3s;
+}
+
+.section-title.text-center hr {
+    margin: 0 auto 20px;
+}
+
+.section-title:hover hr {
+    width: 60px;
+}
+
+.container1 {
+    position: relative;
+ 
+  }
+  
+  .image {
+    opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+   
+  }
+
+
+ 
+
+.middle {
+    width: 90%;
+    height:340px;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+ top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    background-color:rgba(255, 0, 0, 0.616);
+
+  }
+
+.container1:hover .middle {
+    opacity: 1;
+ 
+  }
+  
+  .fa-t {
+ 
+ position: absolute;
+ top: 40%;
+
+ left: 20%;
+
+  }
+
+
+  .container2 {
+    position: relative;
+ 
+
+  }
+  .image2 {
+    opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+   
+  }
+  .middle2 {
+    width: 90%;
+    height:340px;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+ top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    background-color:rgba(255, 0, 0, 0.616);
+  }
+
+.container2:hover .middle2 {
+    opacity: 1;
+ 
+  }
+  
+  .fa-t2 {
+ 
+ position: absolute;
+ top: 40%;
+
+ left: 20%;
+
+  }
+
+
+
+  .container3 {
+    position: relative;
+ 
+
+  }
+  .image3 {
+    opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+   
+  }
+  .middle3 {
+    width: 90%;
+    height:340px;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+ top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    background-color:rgba(255, 0, 0, 0.616);
+  }
+
+.container3:hover .middle3 {
+    opacity: 1;
+ 
+  }
+  
+  .fa-t3 {
+ 
+ position: absolute;
+ top: 40%;
+
+ left: 20%;
+
+  }
+  .container4 {
+    position: relative;
+ 
+
+  }
+  .image4 {
+    opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+   
+  }
+  .middle4 {
+    width: 90%;
+    height:340px;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+ top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    background-color:rgba(255, 0, 0, 0.616);
+  }
+
+.container4:hover .middle4 {
+    opacity: 1;
+ 
+  }
+  
+  .fa-t4 {
+ 
+ position: absolute;
+ top: 40%;
+
+ left: 20%;
+
+  }
